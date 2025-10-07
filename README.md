@@ -1,16 +1,31 @@
-# apexcify_profile
+🧑‍💻 ApexcifyTechnologys Profile Page
 
-A new Flutter project.
+A clean and modern Flutter profile page UI designed with an elegant and minimal look.
+It presents the user’s photo, name, job title, email, location, and a short bio — all within a smooth, well-structured layout.
+This project is perfect for learning Flutter UI design, personal portfolio apps, or practicing advanced layout techniques.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+Gradient header with soft rounded corners
 
-A few resources to get you started if this is your first Flutter project:
+Circular profile picture with subtle elevation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Detailed info section (name, email, job title, location)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+“About Me” section for a short personal bio
+
+Floating Action Button (FAB) for future edit functionality
+
+Beautiful typography powered by Google Fonts
+
+Responsive, clean, and easy to customize
+
+🧩 Tech Stack
+
+Flutter (Material 3)
+
+Google Fonts package for consistent, elegant text styling
+
+## 🎥 Demo Video
+Watch a short demo of the app in action:
+👉 [View on Google Drive](https://drive.google.com/file/d/1ATaWqxLCC39_-VFQctH9BQdXZB4HdZEt/view?usp=sharing)
